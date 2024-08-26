@@ -12,7 +12,7 @@ The README file in a GitHub repository is crucial as it provides an overview of 
 A public repository on GitHub is visible to everyone, allowing anyone to view, clone, and contribute to the project, which promotes open collaboration and community involvement. However, it may expose the project to unwanted attention or misuse. A private repository is only accessible to invited collaborators, providing more control over who can view and contribute, which is ideal for sensitive or proprietary projects but limits broader community engagement. The choice between public and private depends on the need for openness versus control in a collaborative project.
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
-* To make your first commit to a GitHub repository, follow these steps:
+To make your first commit to a GitHub repository, follow these steps:
 
 - Clone the repository to your local machine.
 - Add or modify files in the repository.
@@ -20,7 +20,7 @@ A public repository on GitHub is visible to everyone, allowing anyone to view, c
 - Create a commit with git commit -m "Your commit message".
 - Push the commit to GitHub with git push.
 - Commits are snapshots of your project at specific points in time.
-  They help in tracking changes, allowing you to manage different versions of your project by documenting what was changed, when, and why, which is essential for maintaining a clear project history and facilitating collaboration.
+They help in tracking changes, allowing you to manage different versions of your project by documenting what was changed, when, and why, which is essential for maintaining a clear project history and facilitating collaboration.
 
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 
